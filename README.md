@@ -1,6 +1,5 @@
-# Project Name
 
-## Technologies Used
+## I worked with below technologies
 
 ### Java
 ![Java](./java-logo-1.png)
