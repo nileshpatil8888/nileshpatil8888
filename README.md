@@ -1,20 +1,28 @@
 
 ## I worked with below technologies
 
+icons8-html5-50.png
+icons8-docker-48.png
+icons8-postman-api-64.png
+icons8-sql-50.png
+icons8-aws-24.png
+icons8-spring-boot-16.png
+icons8-java-100.png
+
 ### Java
-![Java](./java-logo-1.png)
+![Java](./icons8-java-100.png)
 
 ### Spring Boot
-![Spring Boot](./SpringBoot-Logo-qu.png)
+![Spring Boot](./icons8-spring-boot-16.png)
 
 ### Docker
-![Docker](./docker-logo-920x920-sue-v03.png)
+![Docker](./icons8-docker-48.png)
 
 ### GitHub
 ![GitHub](./github-repo-git-octocat-icon-256x249-kaag39z2.png)
 
 ### Postman
-![Postman](./postman.png)
+![Postman](./icons8-postman-api-64.png)
 
 ### Calsoft
 ![Calsoft](./calsoft_logo.jpg)
